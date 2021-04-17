@@ -1,4 +1,4 @@
-# github-upload
+# Starting Projects
 **Hello!** These are all my projects and assignments I built to learn python in my first few months.
 
 The 'AtBS Book' folder consists of projects from the book [Automate the Boring Stuff](https://automatetheboringstuff.com/) by Al Sweigart.
